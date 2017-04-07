@@ -1,0 +1,58 @@
+title: "UCSB CCS Computing"
+github_url: https://github.com/ucsb-ccs-computing/ucsb-ccs-computing.github.io
+
+exclude: ['vendor', 'setup.sh', 'jekyll.sh']
+
+timezone: America/Los_Angeles
+
+collections:
+
+  faculty:
+    output: true
+    permalink: /faculty/:path/
+
+  students:
+    output: true
+    permalink: /students/:path/
+
+  alumni:
+    output: true
+    permalink: /alumni/:path/
+
+  topics:
+    output: true
+    permalink: /topics/:path/
+
+  resources:
+    output: true
+    permalink: /resources/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: topic
+
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: student
+
+
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: topic
+
+
+safari_on_campus: http://proquest.safaribooksonline.com
+safari_off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048/

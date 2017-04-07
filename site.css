@@ -1,0 +1,37 @@
+---
+layout: null
+---
+
+{% include jekyll-github.css %}
+
+p.topic-summary {
+    font-style: italic;
+}
+
+@media print {
+	div.header {display: none; }
+	div.footer {display: none; }
+	body { 
+		font-size: 12px;
+		font-family: "Times New Roman",  serif;
+	}
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table * th {
+	border: 1px solid black;
+	padding: 2px;
+}
+
+table * td {
+	border: 1px solid black;
+	padding: 2px;
+}
+
+.indent {
+	margin-left: 3em;	
+}
+}
