@@ -70,6 +70,17 @@ http://dx.doi.org/10.1145/2635868.2635904
 
 </li>
 
+<li>
+Xiaohan Zhao, <b>Adelbert Chang</b>, Atish Das Sarma, Haitao Zheng, and Ben Y. Zhao. 2013. On the embeddability of random walk distances. Proc. VLDB Endow. 6, 14 (September 2013), 1690-1701. DOI=
+<a href="http://dx.doi.org/10.14778/2556549.2556554">
+http://dx.doi.org/10.14778/2556549.2556554
+</a>
+</li>
+
+
+<li>
+Gang Wang, <b>Tristan Konolige</b>, Christo Wilson, Xiao Wang, Haitao Zheng, and Ben Y. Zhao. 2013. You are how you click: clickstream analysis for Sybil detection. In Proceedings of the 22nd USENIX conference on Security (SEC'13). USENIX Association, Berkeley, CA, USA, 241-256. <a href="http://dl.acm.org/citation.cfm?id=2534788">Metadata at ACM Digital Library,</a> <a href="https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_wang_0.pdf">PDF</a>
+</li>
 
 <li>
 Madhukar N. Kedlaya, <b>Jared Roesch</b>, Behnam Robatmili, Mehrdad Reshadi, and Ben Hardekopf. 2013. Improved type specialization for dynamic scripting languages. In Proceedings of the 9th symposium on Dynamic languages (DLS '13). ACM, New York, NY, USA, 37-48.
