@@ -44,7 +44,19 @@ defaults:
       path: ""
       type: students
     values:
-      layout: student
+      layout: person
+
+  - scope:
+      path: ""
+      type: alumni
+    values:
+      layout: person
+
+  - scope:
+      path: ""
+      type: faculty
+    values:
+      layout: person
 
 
   - scope:
