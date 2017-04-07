@@ -44,6 +44,21 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
   </ul>
 </div>
 
+<div id="publications" data-role="collapsible" data-collapsed="false">
+  <h2>Publications by CCS Computing Students</h2>
+  <p>CCS student authors are in bold.</p>
+  <ul>
+  <li>#NotOkay: Understanding Gender-based Violence in Social Media
+  Mai Elsherief, Elizabeth Belding and <b>Dana Nguyen</b>.    International AAAI Conference on Web and Social Media (ICWSM) 2017, May 2017, Montreal, Canada.</li>
+    <li>Joseph McMahan, Michael Christensen, Lawton Nichols, <b>Jared Roesch</b>, <b>Sung-Yee Guo</b>, Ben Hardekopf, and Timothy Sherwood. 2017. An Architecture Supporting Formal and Compositional Binary Analysis. In Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17). ACM, New York, NY, USA, 177-191. DOI: <a href="https://doi.org/10.1145/3037697.3037733">https://doi.org/10.1145/3037697.3037733</a></li>
+
+<li>Kyle Dewey, <b>Jared Roesch</b>, and Ben Hardekopf. 2014. Language fuzzing using constraint logic programming. In Proceedings of the 29th ACM/IEEE international conference on Automated software engineering (ASE '14). ACM, New York, NY, USA, 725-730. DOI=<a href="http://dx.doi.org/10.1145/2642937.2642963">
+http://dx.doi.org/10.1145/2642937.2642963</a></li>
+
+  </ul>
+</div>
+
+
 <!--
 
 <div id="topics" data-role="collapsible" data-collapsed="false">
