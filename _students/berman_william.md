@@ -1,5 +1,5 @@
 ---
-Name: William Berman
+name: William Berman
 ---
 
 ![William Berman](berman_william.jpg)
