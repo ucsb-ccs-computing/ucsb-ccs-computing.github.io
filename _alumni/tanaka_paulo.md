@@ -21,8 +21,8 @@ motivation, there is nothing that cannot be accomplished.
 CCS is the closest environment to a meritocracy that I know of. No idea is too right not to be challenged,
 no person has too big of a title not to be questioned. A place of constant information exchange, and cross
 polination between subjects. A college that gives you the resources for success. You'll have access to some
-of the leading Computer Science reaserchers in the nation as well as modern day legends like Jay Freeman and
-Brian Cox. Jim Rohn famously said "you're the average of the five people you spend the most time with", well
+of the leading Computer Science researchers in the nation as well as modern day legends like <a href="https://en.wikipedia.org/wiki/Jay_Freeman">Jay Freeman</a> and
+<a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)">Brian Fox</a>. Jim Rohn famously said "you're the average of the five people you spend the most time with", well
 that average is quite high in CCS.
 
 
