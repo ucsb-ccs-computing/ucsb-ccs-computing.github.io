@@ -54,6 +54,11 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
     <li>Joseph McMahan, Michael Christensen, Lawton Nichols, <b>Jared Roesch</b>, <b>Sung-Yee Guo</b>, Ben Hardekopf, and Timothy Sherwood. 2017. An Architecture Supporting Formal and Compositional Binary Analysis. In Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17). ACM, New York, NY, USA, 177-191. DOI: <a href="https://doi.org/10.1145/3037697.3037733">https://doi.org/10.1145/3037697.3037733</a></li>
 
 
+<li>C. Krintz, R. Wolski, N. Golubovic, <b>B. Lampel</b>, V. Kulkarni, B. Sethuramasamyraja, B. Roberts, and B. Liu.  SmartFarm: Improving Agriculture Sustainability Using Modern Information Technology.
+<a href="papers/dsfew16.pdf">(PDF)</a>,
+KDD 2016 Workshop on Data Science for Food, Energy, and Water (<a href="https://sites.google.com/site/2016dsfew/home">DSFEW</a>), August, 2016
+</li>
+
 <li>
 <b>Daniel Spokoyny</b>, <b>Jeremy Irvin</b> and Fermin Moscoso del Prado.
 Explicit Causal Connections between the Acquisition of Linguistic Tiers: Evidence from Dynamical Systems Modeling.
