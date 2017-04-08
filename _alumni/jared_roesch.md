@@ -22,7 +22,7 @@ Most recently I have been a member of the [RiSE](https://www.microsoft.com/en-us
 group at Microsoft Research working on two experimental programming languages [F*](https://fstar-lang.org) and
 [Lean](http://leanprover.github.io).
 
-Most importantly I had the amazing fortune of being able to call many peer in CCS friends,
+Most importantly I had the amazing fortune of being able to call many peers in CCS friends,
 mentors, or mentees, and many all three. I learned about the commonalities of being a passionate and
 excited member of field, regardless of whether it was art, literature, music, physics, math or
 computer science. I found this experience to be one of the most unique and rewarding parts of CCS,
