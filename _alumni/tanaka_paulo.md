@@ -33,3 +33,15 @@ be happy to help.
 * [Github](https://github.com/paulot): I don't use it as much anymore.
 
 
+# Publications
+
+<ul>
+<li>
+Diana Franklin, Phillip Conrad, Bryce Boe, Katy Nilsen, Charlotte Hill, Michelle Len, Greg Dreschler, Gerardo Aldana, <b>Paulo Almeida-Tanaka</b>,
+Brynn Kiefer, Chelsea Laird, Felicia Lopez, Christine Pham, Jessica Suarez, and Robert Waite. 2013. Assessment of computer science learning in a scratch-based outreach program. In Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13). ACM, New York, NY, USA, 371-376.
+DOI:
+<a href="http://dx.doi.org/10.1145/2445196.2445304">
+http://dx.doi.org/10.1145/2445196.2445304
+</a>
+</li>
+</ul>
