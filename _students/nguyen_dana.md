@@ -2,7 +2,7 @@
 name: Dana Nguyen
 ---
 
-![Dana Nguyen](nguyen_dana.png)
+![Dana Nguyen](nguyen_dana.jpg)
 
 Dana Nguyen dabbles in the art of turning caffeine into code. Currently, she is a 2nd-year studying Computing in the College of Creative Studies at UCSB. 
 
