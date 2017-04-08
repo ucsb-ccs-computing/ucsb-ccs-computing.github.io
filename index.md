@@ -58,8 +58,6 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 <b>Daniel Spokoyny</b>, <b>Jeremy Irvin</b> and Fermin Moscoso del Prado.
 Explicit Causal Connections between the Acquisition of Linguistic Tiers: Evidence from Dynamical Systems Modeling.
 Proceedings of the 7th Workshop on Cognitive Aspects of Computational Language Learning.  August 2016, Berlin.
-<a href="http://anthology.aclweb.org/W16-1910">
-http://anthology.aclweb.org/W16-1910
 </a>
 </li>
 
