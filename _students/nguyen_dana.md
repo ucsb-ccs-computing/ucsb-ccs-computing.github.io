@@ -10,8 +10,9 @@ Dana's computing interests lie in explaining real-world problems by analyzing in
 
 In her spare time, she likes to collect quotes, write calligraphy, play the ukelele, capture photos, and code. She also loves cracking up jokes and telling stories!
 
+# Publications
 
-
+* #NotOkay: Understanding Gender-based Violence in Social Media.  Mai Elsherief, Elizabeth Belding and <b>Dana Nguyen</b>.  International AAAI Conference on Web and Social Media (ICWSM) 2017, May 2017, Montreal, Canada.
 
 
 
