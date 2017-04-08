@@ -101,6 +101,7 @@ http://dx.doi.org/10.14778/2556549.2556554
 </li>
 
 
+
 <li>
 Gang Wang, <b>Tristan Konolige</b>, Christo Wilson, Xiao Wang, Haitao Zheng, and Ben Y. Zhao. 2013. You are how you click: clickstream analysis for Sybil detection. In Proceedings of the 22nd USENIX conference on Security (SEC'13). USENIX Association, Berkeley, CA, USA, 241-256. <a href="http://dl.acm.org/citation.cfm?id=2534788">Metadata at ACM Digital Library,</a> <a href="https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_wang_0.pdf">PDF</a>
 </li>
@@ -130,6 +131,8 @@ http://dx.doi.org/10.1145/2445196.2445304
 </a>
 </li>
 
+
+<li> B. R. Goldsmith, E. D. Sanderson, <b>D. Bean</b>, and B. Peters.  Isolated catalyst sites on amorphous supports: a systematic algorithm for understanding heterogeneities in structure and reactivity.  <i>J. Chem. Phys.</i> 138, 204105 (2013).</li>
 
 <li>
 Adam Lugowski, David Alber, Aydm Buluç, John R. Gilbert, Steve Reinhardt, Yun Teng, <b>Andrew Waranis</b>.  A Flexible Open-Source Toolbox for Scalable Complex Graph Analysis.  Proceedings of the 2012 SIAM International Conference on Data Mining.  DOI=
