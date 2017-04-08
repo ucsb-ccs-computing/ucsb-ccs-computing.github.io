@@ -53,6 +53,17 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
   
     <li>Joseph McMahan, Michael Christensen, Lawton Nichols, <b>Jared Roesch</b>, <b>Sung-Yee Guo</b>, Ben Hardekopf, and Timothy Sherwood. 2017. An Architecture Supporting Formal and Compositional Binary Analysis. In Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17). ACM, New York, NY, USA, 177-191. DOI: <a href="https://doi.org/10.1145/3037697.3037733">https://doi.org/10.1145/3037697.3037733</a></li>
 
+
+<li>
+SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis.  Y. Shoshitaishvili, R. Wang, C. Salls, N. D. Stephens, M. Polino, <b>A. Dutcher</b>, J. Grosen, S. Feng, C. Hauser, C. Kruegel, G. Vigna. Proceedings of the IEEE Symposium on Security and Privacy (SSP 2016). <a href="https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf">PDF</a>.
+</li>
+
+
+<li>
+Driller: Augmenting Fuzzing Through Selective Symbolic ExecutionN. D. Stephens, J. Grosen, C. Salls, <b>A. Dutcher</b>, R. Wang, J. Corbetta, Y. Shoshitaishvili, C. Kruegel, G. Vigna.  Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS 2016).
+<a href="https://www.internetsociety.org/sites/default/files/blogs-media/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf">PDF</a>
+</li>
+
 <li>
 Kyle Dewey, <b>Jared Roesch</b>, and Ben Hardekopf. 2015. Fuzzing the Rust Typechecker Using CLP (T). In Proceedings of the 2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE) (ASE '15). IEEE Computer Society, Washington, DC, USA, 482-493. DOI=<a href="http://dx.doi.org/10.1109/ASE.2015.65">http://dx.doi.org/10.1109/ASE.2015.65</a>
 </li>
