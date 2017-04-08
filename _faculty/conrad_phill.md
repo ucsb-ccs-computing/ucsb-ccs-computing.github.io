@@ -21,5 +21,5 @@ University of Delaware before joining the UCSB faculty.
 Phill also has an interest in music--he plays piano and guitar, and participates in a community chorus.  He co-taught a class with CCS faculty member Leslie Hogan titled [Sound, Image and Computation] that used computer programming to combind sounds and images to create new works of art.
 
 
-[University of Delaware]:(https://www.cis.udel.edu)
-[Sound, Image and Computation]:(https://ccs.ucsb.edu/courses/sound-image-and-computation)
+[University of Delaware]:https://www.cis.udel.edu
+[Sound, Image and Computation]:https://ccs.ucsb.edu/courses/sound-image-and-computation
