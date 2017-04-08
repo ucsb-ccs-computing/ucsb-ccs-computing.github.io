@@ -55,6 +55,15 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 
 
 <li>
+<b>Daniel Spokoyny</b>, <b>Jeremy Irvin</b> and Fermin Moscoso del Prado.
+Explicit Causal Connections between the Acquisition of Linguistic Tiers: Evidence from Dynamical Systems Modeling.
+Proceedings of the 7th Workshop on Cognitive Aspects of Computational Language Learning.  August 2016, Berlin.
+<a href="http://anthology.aclweb.org/W16-1910">
+http://anthology.aclweb.org/W16-1910
+</a>
+</li>
+
+<li>
 SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis.  Y. Shoshitaishvili, R. Wang, C. Salls, N. D. Stephens, M. Polino, <b>A. Dutcher</b>, J. Grosen, S. Feng, C. Hauser, C. Kruegel, G. Vigna. Proceedings of the IEEE Symposium on Security and Privacy (SSP 2016). <a href="https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf">PDF</a>.
 </li>
 
