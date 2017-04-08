@@ -16,7 +16,7 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 
 
 <div id="students" data-role="collapsible" data-collapsed="false">
-  <h2>Selected Student Profiles</h2>
+  <h2>Sample Student Profiles</h2>
   <ul>
    {% for student in site.students %}
      <li {% if student.indent %} class="indent" {% endif %}><a href="{{student.url}}">{{ student.name }}</a></li>
@@ -25,7 +25,7 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 </div>
 
 <div id="alumni" data-role="collapsible" data-collapsed="false">
-  <h2>Selected Alumni Profiles</h2>
+  <h2>Sample Alumni Profiles</h2>
   <ul>
    {% for alum in site.alumni %}
      <li {% if alum.indent %} class="indent" {% endif %}><a href="{{alum.url}}">{{ alum.name }}</a></li>
@@ -36,7 +36,7 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 
 
 <div id="faculty" data-role="collapsible" data-collapsed="false">
-  <h2>Faculty</h2>
+  <h2>Sample Faculty Profiles</h2>
   <ul>
    {% for person in site.faculty %}
      <li {% if person.indent %} class="indent" {% endif %}><a href="{{person.url}}">{{ person.name }}</a></li>
