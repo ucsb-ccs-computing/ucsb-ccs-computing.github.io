@@ -130,6 +130,14 @@ http://dx.doi.org/10.1145/2445196.2445304
 </a>
 </li>
 
+
+<li>
+Adam Lugowski, David Alber, Aydm Buluç, John R. Gilbert, Steve Reinhardt, Yun Teng, <b>Andrew Waranis</b>.  A Flexible Open-Source Toolbox for Scalable Complex Graph Analysis.  Proceedings of the 2012 SIAM International Conference on Data Mining.  DOI=
+<a href="http://dx.doi.org/10.1137/1.9781611972825.80">
+http://dx.doi.org/10.1137/1.9781611972825.80
+</a>
+</li>
+
   </ul>
 </div>
 
