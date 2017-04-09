@@ -20,4 +20,4 @@ science to improve performance in robot algorithms.
 
 # Publications
 
-<li>Joseph McMahan, Michael Christensen, Lawton Nichols, <b>Jared Roesch</b>, <b>Sung-Yee Guo</b>, Ben Hardekopf, and Timothy Sherwood. 2017. An Architecture Supporting Formal and Compositional Binary Analysis. In Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17). ACM, New York, NY, USA, 177-191. DOI: <a href="https://doi.org/10.1145/3037697.3037733">https://doi.org/10.1145/3037697.3037733</a></li>
+* Joseph McMahan, Michael Christensen, Lawton Nichols, <b>Jared Roesch</b>, <b>Sung-Yee Guo</b>, Ben Hardekopf, and Timothy Sherwood. 2017. An Architecture Supporting Formal and Compositional Binary Analysis. In Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '17). ACM, New York, NY, USA, 177-191. DOI: <a href="https://doi.org/10.1145/3037697.3037733">https://doi.org/10.1145/3037697.3037733</a>.
