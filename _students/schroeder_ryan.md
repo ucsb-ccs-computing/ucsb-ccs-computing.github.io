@@ -12,4 +12,5 @@ a new programming language he is designing with another CCS computing major,
 [Colin Unger].  He also has an interest in music, and enjoys producing songs on
 his computer in his spare time.
 
-[Colin Unger]:/students/unger_colin
+[Colin Unger]:/students/unger_colin/
+
