@@ -2,7 +2,7 @@
 name: Adelbert Chang
 ---
 
-![Adelbert Chang photo](adelbert_chang.jpeg)
+![Adelbert Chang photo](chang_adelbert.jpg)
 
 I came to UCSB in 2010 as a Computer Science major in the College of Engineering. In my first
 Fall quarter I learned about the CCS CS program and a year later I joined the program. CCS
