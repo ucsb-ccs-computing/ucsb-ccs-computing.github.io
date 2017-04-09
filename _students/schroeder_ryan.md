@@ -9,5 +9,7 @@ languages themselves.  Ryan is the designer and site maintainer for
 various personal projects, such as
 [a Mandelbrot set fractal renderer](https://goo.gl/photos/LbJZt4LD6dGedYmP8), or
 a new programming language he is designing with another CCS computing major,
-Colin Unger.  He also has an interest in music, and enjoys producing songs on
+[Colin Unger].  He also has an interest in music, and enjoys producing songs on
 his computer in his spare time.
+
+[Colin Unger]:/students/unger_colin
