@@ -2,8 +2,6 @@
 name: Douglas Thrift
 ---
 
-![Doug Thrift photo](thrift_douglas.jpg)
-
 [Douglas Thrift] is a CCS Computer Science alumni from Ojai, CA and graduated
 in 2007. During his time as a student he lead a student colloquium about the
 [history of the UNIX operating system]. He is currently a Senior Software

@@ -16,32 +16,17 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 
 
 <div id="students" data-role="collapsible" data-collapsed="false">
-  <h2>Sample Student Profiles</h2>
-  <ul>
-   {% for student in site.students %}
-     <li {% if student.indent %} class="indent" {% endif %}><a href="{{student.url}}">{{ student.name }}</a></li>
-   {% endfor %}
-  </ul>
+{% include students.md %}
 </div>
 
 <div id="alumni" data-role="collapsible" data-collapsed="false">
-  <h2>Sample Alumni Profiles</h2>
-  <ul>
-   {% for alum in site.alumni %}
-     <li {% if alum.indent %} class="indent" {% endif %}><a href="{{alum.url}}">{{ alum.name }}</a></li>
-   {% endfor %}
-  </ul>
+{% include alumni.md %}
 </div>
 
 
 
 <div id="faculty" data-role="collapsible" data-collapsed="false">
-  <h2>Sample Faculty Profiles</h2>
-  <ul>
-   {% for person in site.faculty %}
-     <li {% if person.indent %} class="indent" {% endif %}><a href="{{person.url}}">{{ person.name }}</a></li>
-   {% endfor %}
-  </ul>
+{% include faculty.md %}
 </div>
 
 <div id="publications" data-role="collapsible" data-collapsed="false">
