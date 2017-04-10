@@ -1,5 +1,7 @@
 ---
 name: Adelbert Chang
+affiliation: "Box, Inc"
+city: "Redwood City, CA"
 ---
 
 
@@ -19,10 +21,10 @@ development experience as possible. In my free time I participate as a member of
 [Typelevel][typelevel], contribute to [open source][github], and [give talks][speakerdeck] to
 spread the functional programming love.
 
-Computer Science aside I believe among the most valuable things you can do is surround yourself
+Computer Science aside, I believe among the most valuable things you can do is surround yourself
 with a diverse group of people who are truly passionate about what they do. CCS is a rare place
 that gives you exactly this environment by design. If you are the type of student that is very
-self-driven, motivated, and aren't afraid to go against the grain, join CCS - you won't regret it.
+self-driven, motivated, and aren't afraid to go against the grain, join CCS&mdash;you won't regret it.
 
 [box]: https://www.box.com/
 [github]: https://github.com/adelbertc

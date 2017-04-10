@@ -1,5 +1,6 @@
 ---
 name: Sharon Levy
+year: 4
 ---
 
 Sharon Levy is a 4th-year CCS Computer Science major from San Jose,

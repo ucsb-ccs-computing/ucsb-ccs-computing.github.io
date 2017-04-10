@@ -1,5 +1,7 @@
 ---
 name: Andre Sayre
+affiliation: Microsoft
+city: "Redmond, WA"
 ---
 
 Andre Sayre graduated from UCSB with a degree in Computer Science from CCS in 2011. He is currently a software engineer at Microsoft where he works on Visual Studio, Azure and the Developer Center, developing systems to help other software people of the world be more productive.

@@ -1,5 +1,7 @@
 ---
 name: Douglas Thrift
+affiliation: RightScale
+city: "Santa Barbara, CA"
 ---
 
 [Douglas Thrift] is a CCS Computer Science alumni from Ojai, CA and graduated
