@@ -43,7 +43,7 @@ div#content {
 }
 
 
-img:first-of-type {
+img.personimage {
     width: 300px;
     float: right;
     padding: 0em 1em 1em 1em;

@@ -2,7 +2,7 @@
 name: Sammy Guo
 ---
 
-![Sammy Guo](guo_sammy.png)
+
 
 Sung-Yee ("Sammy") Guo is a 4th-year CCS Computer Science student.  He
 works with [Prof. Tim Sherwood](https://www.cs.ucsb.edu/~sherwood) in

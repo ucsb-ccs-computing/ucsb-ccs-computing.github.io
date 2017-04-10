@@ -2,7 +2,7 @@
 name: Adam Schmidt
 ---
 
-![Adam Schmidt](schmidt_adam.png)
+
 
 Adam Schmidt is a 3rd-year CCS Computer Science major from Palo Alto, California (or Seattle, Washington--as of recent). 
 

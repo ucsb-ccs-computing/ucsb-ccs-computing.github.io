@@ -2,7 +2,7 @@
 name: Jared Roesch
 ---
 
-![Jared Roesch photo](jared_roesch.jpg)
+
 
 I’m now a PhD student in the [PLSE](http://uwplse.org/) group at the University of Washington advised
 by [Zach Tatlock](https://homes.cs.washington.edu/~ztatlock/).

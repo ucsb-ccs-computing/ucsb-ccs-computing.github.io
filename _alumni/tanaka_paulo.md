@@ -2,7 +2,7 @@
 name: Paulo Tanaka
 ---
 
-![Paulo Tanaka photo](tanaka_paulo.jpg)
+
 
 I'm currently a Senior Software Engineer at LinkedIn in Sunnyvale CA. I currently
 lead a team that builds internal infrastructure for our developers, you can find more

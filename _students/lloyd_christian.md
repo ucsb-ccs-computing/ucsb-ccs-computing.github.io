@@ -2,7 +2,7 @@
 name: Christian Lloyd
 ---
 
-![Christian Lloyd](lloyd_christian.jpg)
+
 
 Christian Lloyd is a 2nd-year CCS Computing major from San Diego,
 California. His academic interests include Natural Language

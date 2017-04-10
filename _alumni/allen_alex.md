@@ -2,8 +2,6 @@
 name: Alexandria Allen
 ---
 
-![Alex Allen photo](allen_alex.jpg)
-
 
 I'm currently a Software Engineer 2 at [Illumina](https://www.illumina.com/), a biotech company in
 San Diego. When I was a CCS student, I really enjoyed working in an
