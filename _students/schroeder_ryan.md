@@ -3,6 +3,8 @@ name: Ryan Schroeder
 year: 1
 ---
 
+[comment]: <> "![Ryan Schroeder](/students/ryan_schroeder/ryan_schroeder.jpg)"
+
 Ryan Schroeder is a 1st year CCS Computing major from Pasadena, CA.  His
 interests range from Web development to gaming to the design of programming
 languages themselves.  Ryan is the designer and site maintainer for
