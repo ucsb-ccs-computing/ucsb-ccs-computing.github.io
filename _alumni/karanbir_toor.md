@@ -2,8 +2,6 @@
 name: Karanbir Toor
 ---
 
-![Karanbir Toor photo](karanbir_toor.jpeg)
-
 I graduated in 2013 with a degree in Physics and Computer Science. Joining CCS
 was easily one of the best decisions I made in my life. The flexible curriculum
 and individualized attention gave me an education custom made for my interests
