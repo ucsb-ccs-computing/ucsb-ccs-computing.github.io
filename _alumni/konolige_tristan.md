@@ -1,6 +1,6 @@
 ---
 name: Tristan Konolige
-affiliation: "University of Colorado Boulder"
+affiliation: "Ph.D. student, University of Colorado Boulder"
 city: "Boulder, CO"
 ---
 
