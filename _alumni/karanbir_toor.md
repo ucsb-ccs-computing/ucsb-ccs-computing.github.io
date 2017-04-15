@@ -1,5 +1,7 @@
 ---
 name: Karanbir Toor
+affiliation: AdStage
+city: "San Francisco, CA"
 ---
 
 I graduated in 2013 with a degree in Physics and Computer Science. Joining CCS
