@@ -22,12 +22,12 @@ they appear to be opening faster than he can visit them.
 
 # Publications (based on undergrad work)
 
-*  Kyle Klein and Subhash Suri. <a href="psdir/wafr10.pdf"> Multiagent
+*  Kyle Klein and Subhash Suri. <a href="http://www.cs.ucsb.edu/~suri/psdir/wafr10.pdf"> Multiagent
    Pursuit Evasion, or Playing Kabaddi.</a><a href="http://www.wafr.org/">
    International Workshop on Algorithmic Foundations of Robotics (WAFR)</a>,
    Singapore, Dec 13-15, 2010.
 
-*  Kyle Klein and Subhash Suri. <a href="psdir/cccg10.pdf">Robot Kabaddi.</a>
+*  Kyle Klein and Subhash Suri. <a href="http://www.cs.ucsb.edu/~suri/psdir/cccg10.pdf">Robot Kabaddi.</a>
    <a href="http://www.cs.umanitoba.ca/~cccg2010/">22nd Canadian Conference on
    Computational Geometry (CCCG)</a>, Winnipeg, August 9-11, 2010.
 
