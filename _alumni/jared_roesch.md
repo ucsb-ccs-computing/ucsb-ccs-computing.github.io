@@ -1,6 +1,6 @@
 ---
 name: Jared Roesch
-affiliation: "Ph.D Student, Computer Science, University of Washington"
+affiliation: "Ph.D Student, University of Washington"
 city: "Seattle, WA"
 ---
 
