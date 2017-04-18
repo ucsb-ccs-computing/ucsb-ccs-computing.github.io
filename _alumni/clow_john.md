@@ -16,8 +16,7 @@ research.
 
 Out of all of the communities that I was a part of, I feel like CCS
 was the most important. I had a close-knit group of advisors and staff
-like [Phill Conrad](/faculty/conrad_phill), and [Tim Sherwood],(https://www.cs.ucsb.edu/~sherwood/) Alumni mentors/friends such as [Doug
-Thift](/alumni/thrift_doug) and Jay Freeman, as well as a talented group of CCS peers in
+like [Phill Conrad](/faculty/conrad_phill), and [Tim Sherwood](https://www.cs.ucsb.edu/~sherwood/), alumni mentors/friends such as [Doug Thift](/alumni/thrift_doug) and Jay Freeman, as well as a talented group of CCS peers in
 classrooms and labs. During my junior and senior year of undergrad, 
 I was also the lead developer of
 [PyRTL](https://github.com/UCSBarchlab/PyRTL) in the [Arch Lab](http://www.cs.ucsb.edu/~arch/)
