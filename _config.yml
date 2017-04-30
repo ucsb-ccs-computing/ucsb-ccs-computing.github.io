@@ -1,4 +1,4 @@
-title: "UCSB CS/CE Alum and Student Profiles"
+title: "UCSB CCS Computing"
 github_url: https://github.com/ucsb-ccs-computing/ucsb-ccs-computing.github.io
 
 exclude: ['vendor', 'setup.sh', 'jekyll.sh']
