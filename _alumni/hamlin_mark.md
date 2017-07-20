@@ -1,5 +1,7 @@
 ---
 name: Mark Hamlin
+affiliation: Apple
+city: "Cupertino, CA"
 ---
 
 

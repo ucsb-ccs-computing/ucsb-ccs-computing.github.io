@@ -1,5 +1,7 @@
 ---
 name: Jared Roesch
+affiliation: "Ph.D Student, University of Washington"
+city: "Seattle, WA"
 ---
 
 

@@ -49,3 +49,13 @@ img.personimage {
     padding: 0em 1em 1em 1em;
     margin: 0em 1em 1em 1em;
 }
+
+td.pic { text-align: center; }
+
+td.name { text-align: left; }
+
+td.year { text-align: center; }
+
+td.affiliation { text-align: left; }
+
+td.city { text-align: left; }

@@ -1,5 +1,7 @@
 ---
 name: Alexandria Allen
+affiliation: Illumina
+city: "San Diego, CA"
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 name: Paulo Tanaka
+affiliation: LinkedIn
+city: "Sunnyvale, CA"
 ---
 
 
