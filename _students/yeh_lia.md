@@ -1,6 +1,6 @@
 ---
 name: Lia Yeh
-year: 1
+year: 2
 ---
 
-Lia is a first-year CCS Computing major, anticipating to double major in CCS Physics.  She is having fun experiencing mind-blowing moments in her Computing classes, as well as reinventing the way she sees physics.  A year ago, she would never have imagined that she would soon be writing a virtual machine from scratch with her fellow Computing freshmen, building her own cryptography library in C++, or studying abroad this summer at the University of Cambridge in England.  She likes playing club ultimate frisbee with the UCSB Burning Skirts team and volunteering at local middle schools with SciTrek.
+Lia is a second-year CCS Computing and CCS Physics major. Two years ago, she would never have imagined that she would study abroad summer 2017 at the University of Cambridge in England, be a part of the first UCSB delegation to the 2017 Grace Hopper Conference, or be researching in Professor Dave Patterson's [AMO Physics lab](pattersongroup.physics.ucsb.edu). For spring quarter 2018, she is looking forward to watching her Computing classmates' mid-residency reviews (presentations at the end of 2nd year, like PhD defenses but less formal and by CCS Computing undergrads), getting $400 to spend on her group's project in physics lab class, and continuing to plan for the regional Conference for Undergraduate Women in Physics (CUWiP) at UCSB in January 2019. She enjoys being an awful cook and playing unconventional simulation games with friends.
