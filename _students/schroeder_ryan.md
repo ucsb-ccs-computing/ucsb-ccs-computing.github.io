@@ -1,6 +1,6 @@
 ---
 name: Ryan Schroeder
-year: 1
+year: 2
 ---
 
 Ryan Schroeder is a 2nd year CCS Computing major from Pasadena, CA.  His
