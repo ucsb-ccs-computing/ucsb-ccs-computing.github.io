@@ -19,13 +19,6 @@ collections:
     output: true
     permalink: /alumni/:path/
 
-  topics:
-    output: true
-    permalink: /topics/:path/
-
-  resources:
-    output: true
-    permalink: /resources/:path/
 
 defaults:
   -
@@ -33,12 +26,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-
-  - scope:
-      path: ""
-      type: topics
-    values:
-      layout: topic
 
   - scope:
       path: ""
@@ -59,12 +46,3 @@ defaults:
       layout: person
 
 
-  - scope:
-      path: ""
-      type: resources
-    values:
-      layout: topic
-
-
-safari_on_campus: http://proquest.safaribooksonline.com
-safari_off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048/

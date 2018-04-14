@@ -1,8 +1,8 @@
 ---
 name: Alexandria Allen
+affiliation: Illumina
+city: "San Diego, CA"
 ---
-
-![Alex Allen photo](allen_alex.jpg)
 
 
 I'm currently a Software Engineer 2 at [Illumina](https://www.illumina.com/), a biotech company in

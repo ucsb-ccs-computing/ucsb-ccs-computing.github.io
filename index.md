@@ -16,37 +16,22 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 
 
 <div id="students" data-role="collapsible" data-collapsed="false">
-  <h2>Students</h2>
-  <ul>
-   {% for student in site.students %}
-     <li {% if student.indent %} class="indent" {% endif %}><a href="{{student.url}}">{{ student.name }}</a></li>
-   {% endfor %}
-  </ul>
+{% include students.md %}
 </div>
 
 <div id="alumni" data-role="collapsible" data-collapsed="false">
-  <h2>Alumni</h2>
-  <ul>
-   {% for alum in site.alumni %}
-     <li {% if alum.indent %} class="indent" {% endif %}><a href="{{alum.url}}">{{ alum.name }}</a></li>
-   {% endfor %}
-  </ul>
+{% include alumni.md %}
 </div>
 
 
 
 <div id="faculty" data-role="collapsible" data-collapsed="false">
-  <h2>Faculty</h2>
-  <ul>
-   {% for person in site.faculty %}
-     <li {% if person.indent %} class="indent" {% endif %}><a href="{{person.url}}">{{ person.name }}</a></li>
-   {% endfor %}
-  </ul>
+{% include faculty.md %}
 </div>
 
 <div id="publications" data-role="collapsible" data-collapsed="false">
   <h2>Publications by CCS Computing Students</h2>
-  <p>CCS student authors are in bold.</p>
+  <p>CCS student authors are in bold.   Publications should appear in this list only if the student's contribution to the publication was made as an undergrad.  Work that started while the student was an undergrad and continued into the 5-year combined BS/MS program may be included, but not work done as a Ph.D. student or after graduating from UCSB.</p>
   <ul>
 {% include publications.html %}
 
@@ -55,25 +40,3 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 </div>
 
 
-<!--
-
-<div id="topics" data-role="collapsible" data-collapsed="false">
-  <h2>Topics</h2>
-  <ul>
-   {% for topic in site.topics %}
-     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
-   {% endfor %}
-  </ul>
-</div>
-
-
-<div id="resources" data-role="collapsible" data-collapsed="false">
-  <h2>Resources</h2>
-  <ul>
-   {% for topic in site.resources %}
-     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
-   {% endfor %}
-  </ul>
-</div>
-
--->

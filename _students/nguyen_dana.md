@@ -14,8 +14,7 @@ In her spare time, she likes to collect quotes, write calligraphy, play the ukel
 # Publications
 *	Mai Elsherief, Vivek Kulkarni, <b>Dana Nguyen</b>, William Yang Wang, and Elizabeth Belding.  Hate Lingo: A Target-based Linguistic Analysis of Hate Speech in Social Media. International AAAI Conference on Web and Social Media (ICWSM) 2018, June 2018, Stanford, California.
 *	Mai Elsherief, Shirin Nilizadeh, <b>Dana Nguyen</b>, Giovanni Vigna, and Elizabeth Belding.  Peer to Peer Hate: Hate Speech Instigators and Their Targets. International AAAI Conference on Web and Social Media (ICWSM) 2018, June 2018, Stanford, California.
-*   Mai Elsherief, Elizabeth Belding and <b>Dana Nguyen</b>.  #NotOkay: Understanding Gender-based Violence in Social Media. International AAAI Conference on Web and Social Media (ICWSM) 2017, May 2017, Montreal, Canada.
-
+* Mai Elsherief, Elizabeth Belding and <b>Dana Nguyen</b>.  #NotOkay: Understanding Gender-based Violence in Social Media. International AAAI Conference on Web and Social Media (ICWSM) 2017, May 2017, Montreal, Canada.
 
 
 

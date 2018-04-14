@@ -1,8 +1,9 @@
 ---
 name: Abhishek Bhattacharya
+year: 4
 ---
 
-![Abhishek photo](bhattachara_abhishek.png)
+
 
 Abhishek is an undergraduate student at UCSB double majoring in Computer
 Science and Biology. In the last few years, he has worked with leading

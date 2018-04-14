@@ -2,8 +2,6 @@
 name: Phill Conrad
 ---
 
-![Phill Conrad photo](conrad_phill.jpg)
-
 Phill Conrad joined the UCSB faculty in 2007, and divides his time evenly between the College of Creative Studies Computing Program, and the Department of Computer Science in the College of Engineering.
 
 His main area of concentration is undergraduate teaching and

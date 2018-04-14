@@ -23,6 +23,11 @@ which is available on CSIL, and can be [installed on Mac via homebrew](http://st
 To convert images of arbitrary size to 300 pixels of height, while maintaining aspect ration, use:
 
 ```
-convert -resize x300 input.jpg output.jpg
+convert -resize x300 orig.jpg 300h.jpg
 ```
 
+To convert images of arbitrary size to 50 pixels high, 
+
+```
+convert -resize x50 orig.jpg 50h.jpg
+```
