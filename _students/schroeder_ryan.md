@@ -1,9 +1,9 @@
 ---
 name: Ryan Schroeder
-year: 2
+year: 3
 ---
 
-Ryan Schroeder is a 2nd year CCS Computing major from Pasadena, CA.  His
+Ryan Schroeder is a 3rd year CCS Computing major from Pasadena, CA.  His
 interests range from Web development to gaming to the design of programming
 languages themselves.  Ryan is the designer and site maintainer for
 [his father's portfolio site](http://nathanschroeder.net), but mainly works on
