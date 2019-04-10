@@ -1,6 +1,6 @@
 ---
 name: Bryan Tan
-year: 1
+year: 2
 ---
 
 Bryan Tan is a CCS Computing major from Milpitas, California. His academic
