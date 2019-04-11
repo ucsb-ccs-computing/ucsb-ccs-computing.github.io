@@ -1,14 +1,12 @@
 ---
 name: Ryan Schroeder
-year: 1
+year: 3
 ---
 
-Ryan Schroeder is a 1st year CCS Computing major from Pasadena, CA.  His
-interests range from Web development to gaming to the design of programming
-languages themselves.  Ryan is the designer and site maintainer for
-[his father's portfolio site](http://nathanschroeder.net), but mainly works on
-various personal projects, such as
-[a Mandelbrot set fractal renderer](https://goo.gl/photos/LbJZt4LD6dGedYmP8), or
-a new programming language he is designing with another CCS computing major,
-[Colin Unger](/students/unger_colin/).  He also has an interest in music, and
-enjoys producing songs on his computer in his spare time.
+Ryan Schroeder is a 3rd-year CCS Computing major from Altadena, CA.  His primary
+interests are computer graphics, audio synthesis, and programming language
+design.  He has worked for the 2019 production of _The Lion King_ and currently
+works for Opus Logica, but still enjoys working on small personal projects in
+his spare time.  Outside of computer science, he has an affinity for audiovisual
+arts such as graphic design, photography, and digital sound design.  You can
+find out more about some of his projects at [his website](http://rk1024.net).

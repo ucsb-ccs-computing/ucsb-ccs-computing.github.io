@@ -40,25 +40,3 @@ This site is maintained in this github repo: <{{ site.github_url }}>, and is bas
 </div>
 
 
-<!--
-
-<div id="topics" data-role="collapsible" data-collapsed="false">
-  <h2>Topics</h2>
-  <ul>
-   {% for topic in site.topics %}
-     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
-   {% endfor %}
-  </ul>
-</div>
-
-
-<div id="resources" data-role="collapsible" data-collapsed="false">
-  <h2>Resources</h2>
-  <ul>
-   {% for topic in site.resources %}
-     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
-   {% endfor %}
-  </ul>
-</div>
-
--->

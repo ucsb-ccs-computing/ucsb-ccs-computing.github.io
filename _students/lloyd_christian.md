@@ -1,11 +1,11 @@
 ---
 name: Christian Lloyd
-year: 2
+year: 4
 ---
 
 
 
-Christian Lloyd is a 2nd-year CCS Computing major from San Diego,
+Christian Lloyd is a 4th-year CCS Computing major from San Diego,
 California. His academic interests include Natural Language
 Processing, Information Theory, and semantic analysis.  Past research
 includes personal work towards the development of automatic pun

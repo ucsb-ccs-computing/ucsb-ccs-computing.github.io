@@ -3,6 +3,23 @@
   <head>
   {% include head.html %} 
   <title>{% if page.title %} {{ page.title }}  {% endif %} {{ site.name }}</title>
+
+  <script>
+    {% include data.js %}
+  </script>
+
+  <script>
+    $(document).on("pageshow",function(){
+     console.log("pageshow event");
+     var this_object = data.pathname_to_object[window.location.pathname];   
+     if (this_object) {
+      $(".prev").html("<a href='" + this_object.prev.url + "'>prev</a>");
+      $(".next").html("<a href='" + this_object.next.url + "'>next</a>");
+     }
+   });
+  </script>
+    
+
   </head>
   <body id="page-top">
     <div id="container" data-role="page">
