@@ -7,7 +7,7 @@ year: 4
 
 Dana Nguyen dabbles in the art of turning caffeine into code. Currently, she is a 4th-year studying Computing in the College of Creative Studies at UCSB. 
 
-Dana's computing interests lie in explaining real-world problems by analyzing influences in networks, particularly those of social networks, and using tools to identify user attributes and persuasive behaviors associated with having an online presence. She was a recurring intern at NASA Ames Research Center, and is presently working in the [MOMENT Lab](https://moment.cs.ucsb.edu) with [Prof. Elizabeth Belding](https://people.cs.ucsb.edu/ebelding/) to detect and prevent gender-based harassment and hate speech in social media. 
+Dana's computing interests lie in explaining real-world problems by analyzing influences in networks, particularly those of social networks, and using tools to identify user attributes and abusive behaviors associated with having an online presence. She has interned at NASA Ames Research Center and Intel, and will be interning at Microsoft Research AI this summer. Presently, she is working in the [MOMENT Lab](https://moment.cs.ucsb.edu) with [Prof. Elizabeth Belding](https://people.cs.ucsb.edu/ebelding/) to detect and prevent gender-based harassment and hate speech in social media. 
 
 In her spare time, she likes to collect quotes, write calligraphy, play the ukelele, capture photos, and code. She also loves cracking up jokes and telling stories!
 
