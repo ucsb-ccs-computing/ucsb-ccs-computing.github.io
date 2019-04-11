@@ -5,4 +5,4 @@ year: 3
 
 
 
-Scott Chow is a CCS Computing major from San Mateo, California. Scott is currently working for a student-led startup called [The Plug](http://theplugsocial.com/) while exploring iOS development in both Swift and Objective-C. In his free time, he trains for marathons, plays for [UCSB's Ultimate team Black Tide](http://recreation.sa.ucsb.edu/sport-clubs/sports-clubs/men's-sports-clubs/ultimate), and plays trumpet in the [University Wind Ensemble](http://www.music.ucsb.edu/ensembles/university-wind) and [UCSB Jazz Ensemble](http://www.music.ucsb.edu/ensembles/jazz). Scott worked as an iOS instructor at [Make School](https://www.makeschool.com/) last summer.
+Scott Chow is a CCS Computing major from San Mateo, California. Scott is currently working in the SecLab to make 2 factor authentication faster and easier. In his free time, he leads the UCSB Running Club, plays trumpet for the student-led POPS Orchestra, and plays tuba in the University Wind Ensemble. Scott worked as an Software Engineering Intern at Invoca last summer and will be working for Appfolio this coming one.
