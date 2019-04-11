@@ -3,4 +3,12 @@ name: Colin Unger
 year: 3
 ---
 
-Colin Unger is a 3rd year CCS Physics and Computing double major from Davis, California whose main focus is on scientific computing. He currently works in the [Peters Lab](https://engineering.ucsb.edu/~baronp/) in Chemical Engineering on modelling nucleation. In addition to scientific computing, he has side interests in computer security (especially cryptography) and programming languages. In his free time, he can be found playing CTFs with [Shellphish](http://www.shellphish.net). 
+Colin Unger is a 3rd year CCS Computing major from Davis, California whose main
+focus is on security and program analysis. In the past he has worked at
+Microsoft on Cortana and in the UCSB Chemical Engineering Department on
+[modeling nucleation](https://engineering.ucsb.edu/~baronp/). He currently
+works on binary analysis in the [UCSB Seclab](https://seclab.cs.ucsb.edu/).
+This upcoming summer he will be an intern at
+[GrammaTech](https://www.grammatech.com/).  In his free time, he can be found
+playing the cello, learning art history, or playing CTFs with
+[Shellphish](http://www.shellphish.net).
