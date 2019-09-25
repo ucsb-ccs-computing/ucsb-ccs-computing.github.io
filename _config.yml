@@ -1,7 +1,21 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme  
+
+kramdown:
+  parse_block_html: false
+
+exclude: ['vendor', 'setup.sh', 'jekyll.sh']
+include:
+  - _pages
+
+timezone: America/Los_Angeles
+
 title: "UCSB CCS Computing"
 github_url: https://github.com/ucsb-ccs-computing/ucsb-ccs-computing.github.io
 
-exclude: ['vendor', 'setup.sh', 'jekyll.sh']
 
 timezone: America/Los_Angeles
 
