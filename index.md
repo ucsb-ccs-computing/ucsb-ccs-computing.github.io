@@ -11,7 +11,7 @@ The College of Creative Studies (CCS) Computing Program provides a small, tight-
 
 <div id="about" data-role="collapsible" data-collapsed="true" markdown="1">
 <h2>About this website</h2>
-This site is maintained in this github repo: <{{ site.github_url }}>, and is based on Github Pages, Jekyll, and JQuery Mobile.   Members of the CCS Computing community are encourage to help keep the content up to date by forking and doing pull requests. 
+This site is maintained in this github repo: <{{ site.github_url }}>, and is based on Github Pages, Jekyll, and JQuery Mobile.   Members of the CCS Computing community are encouraged to help keep the content up to date by forking and doing pull requests. 
 </div>
 
 
