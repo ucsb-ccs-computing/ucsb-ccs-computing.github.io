@@ -22,13 +22,13 @@ main_dropdown:
    title: Resources
    items:
      - title: Student Profiles
-       url: /students/
+       url: /students
      - title: Alumni Profiles
-       url: /alumni/
+       url: /alumni
      - title: Faculty Profiles
-       url: /faculty/
+       url: /faculty
      - title: Student Publications
-       url: /publications/       
+       url: /publications
 
 
 offering_menus:
