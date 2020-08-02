@@ -1,6 +1,0 @@
----
-name: Ethan Epperly
-year: 4
----
-
-Ethan Epperly is a 4th year CCS Computing and CCS Mathematics double major from Livermore, CA.  His interests are in [computational modelling of structural materials](https://doi.org/10.1016/j.jmps.2020.103944), [fast algorithms for structured linear systems](https://arxiv.org/abs/1911.05858), and machine learning. Ethan has worked for five summers at [Sandia National Labs](http://www.sandia.gov) working with [Dr. Ryan Sills](https://mse.rutgers.edu/fac/ryan-sills) and is currently doing research with the [UCSB Scientific Computing Group](http://scg.ece.ucsb.edu). Ethan was chosen as a [2020 Department of Energy Computational Science Graduate Fellow](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2020-incoming-class) and was honored as one of [41 finalists for the competitive Hertz foundation fellowship](https://hertzfoundation.org/news/pressrelease/1532/41-Finalists-Named-for-the-2019-Hertz-Fellowships). He is excited to continue his work on computational linear algebra next year as a PhD student in [Applied and Computational Mathematics at Caltech](http://www.cms.caltech.edu/academics/grad_acm). When he is not writing code or proving martingale inequalities, Ethan can be found listening to music or playing board games.
