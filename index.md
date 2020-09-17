@@ -9,6 +9,8 @@ The College of Creative Studies (CCS) Computing Program provides a small, tight-
 Here are three resources introducing the courses offered for non-majors this year:
 
 | [2 minute video](https://youtu.be/zNCB_OpBJzQ)  | [20 minute video](https://www.youtube.com/watch?v=m0MyX2_DTOU&feature=youtu.be)  | [List of courses](https://docs.google.com/presentation/d/1miyNRETEJkhXANqBKZaH7_9REa7KPf7kFWNNQ8k0CI0/edit?usp=sharing) |
+{:.table .table-sm .table-striped .table-bordered}
+
 
 # Profiles
 
