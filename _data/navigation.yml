@@ -33,6 +33,80 @@ main_dropdown:
 
 offering_menus:
   -
+    term: F21-1A
+    baseurl: /F21-1A
+    items: 
+      - title: Hwk
+        url: /hwk/
+        description: "Homework Assignments"
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lecture/
+        description: "Lecture"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: CCS-1A-F21
+             url: https://github.com/CCS-1A-F21
+  -
+    term: F21-1L
+    baseurl: /F21-1L
+    items: 
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lecture/
+        description: "Lecture"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: CCS-1L-F21
+             url: https://github.com/CCS-1L-F21
+  -
+    term: F20-1A
+    baseurl: /F20-1A
+    items: 
+      - title: Hwk
+        url: /hwk/
+        description: "Homework Assignments"
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lecture/
+        description: "Lecture"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: CCS-1A-F20
+             url: https://github.com/CCS-1A-F20
+  -
+    term: F20-1L
+    baseurl: /F20-1L
+    items: 
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lecture/
+        description: "Lecture"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: CCS-1L-F20
+             url: https://github.com/CCS-1L-F20   
+  -
     term: F19-1A
     baseurl: /F19-1A
     items: 
